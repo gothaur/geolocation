@@ -1,0 +1,92 @@
+[
+  {
+    "model": "geolocation.Geolocation",
+    "pk": 1,
+    "fields": {
+      "ip_address": "172.67.178.195",
+      "url": "",
+      "continent_code": "NA",
+      "continent_name": "North America",
+      "country_code": "US",
+      "country_name": "United States",
+      "region_code": "CA",
+      "region_name": "California",
+      "city": "San Francisco",
+      "postcode": "94107",
+      "latitude": 37.76784,
+      "longitude": -122.392860
+    }
+  },
+  {
+    "model": "geolocation.Geolocation",
+    "pk": 2,
+    "fields": {
+      "ip_address": "54.73.53.134",
+      "url": "https://geo-location-storage.herokuapp.com/",
+      "continent_code": "EU",
+      "continent_name": "Europe",
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "region_code": "L",
+      "region_name": "Leinster",
+      "city": "Dublin",
+      "postcode": null,
+      "latitude": "53.353889",
+      "longitude": "-6.243330"
+    }
+  },
+  {
+    "model": "geolocation.Geolocation",
+    "pk": 3,
+    "fields": {
+      "ip_address": "146.75.36.223",
+      "url": "https://www.python.org",
+      "continent_code": "EU",
+      "continent_name": "Europe",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "region_code": "O",
+      "region_name": "Västra Götaland",
+      "city": "Göteborg",
+      "postcode": "400 10",
+      "latitude": "57.708870",
+      "longitude": "11.974560"
+    }
+  },
+  {
+    "model": "geolocation.Geolocation",
+    "pk": 4,
+    "fields": {
+      "ip_address": "185.199.108.153",
+      "url": "https://www.django-rest-framework.org/",
+      "continent_code": "NA",
+      "continent_name": "North America",
+      "country_code": "US",
+      "country_name": "United States",
+      "region_code": "CA",
+      "region_name": "California",
+      "city": "San Francisco",
+      "postcode": "94107",
+      "latitude": 37.767848,
+      "longitude": -122.392860
+    }
+  },
+  {
+    "model": "geolocation.Geolocation",
+    "pk": 5,
+    "fields": {
+      "ip_address": "146.75.38.132",
+      "url": "https://www.djangoproject.com/",
+      "continent_code": "EU",
+      "continent_name": "Europe",
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "region_code": "O",
+      "region_name": "Västra Götaland",
+      "city": "Göteborg",
+      "postcode": "400 10",
+      "latitude": 57.708869,
+      "longitude": 11.974559
+    }
+  }
+]
